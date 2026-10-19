@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextCounter_2026</string>
+    <string name="title">Teksto skaičiuoklė</string>
+    <string name="input_text">Įveskite tekstą</string>
+    <string name="count_words">Žodžiai</string>
+    <string name="count_punctuation">Rašybos ženklai</string>
+    <string name="button_count">Skaičiuoti</string>
+    <string name="result">Rezultatas:</string>
+    <string name="empty_message">Prašome įvesti tekstą</string>
+
+    <string-array name="count_options">
+        <item>@string/count_words</item>
+        <item>@string/count_punctuation</item>
+    </string-array>
+</resources>
